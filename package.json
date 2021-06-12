@@ -1,0 +1,27 @@
+{
+  "name": "domophone-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domophone/domophone-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Domophone/domophone-types/issues"
+  },
+  "homepage": "https://github.com/Domophone/domophone-types#readme",
+  "dependencies": {
+    "typescript": "^4.3.2"
+  },
+  "devDependencies": {
+    "husky": "^6.0.0"
+  }
+}
