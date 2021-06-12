@@ -1,7 +1,7 @@
 import { UserId } from "./UserId";
 export interface Device {
     chipId: string;
-    owner: UserId;
+    owner: UserId | null;
     state: number;
     status: "new" | "work";
 }
